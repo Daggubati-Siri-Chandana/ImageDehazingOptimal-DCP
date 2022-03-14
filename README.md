@@ -1,5 +1,4 @@
 # Image Dehazing Optimal using Dark Channel Prior
-Image Processing
 
 Haze is a common phenomenon in digital images which shows poor visibility and contrast. The images might be degraded due to the influence of atmospheric light
 or the poor quality of sensors. Hazy images may cause blur in edges or miss many details in an image.The objective of image analysis is to improve the visibility, 
